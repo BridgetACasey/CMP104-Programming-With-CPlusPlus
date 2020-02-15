@@ -1,0 +1,5 @@
+﻿  FruitMachine.cpp
+D:\University\CMP104 - Programming with C++\CMP104 - Assignment\CMP104 Assignment\CMP104 Assignment\FruitMachine.cpp(241,35): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+D:\University\CMP104 - Programming with C++\CMP104 - Assignment\CMP104 Assignment\CMP104 Assignment\FruitMachine.cpp(241,35): warning C4309:  'initializing': truncation of constant value
+D:\University\CMP104 - Programming with C++\CMP104 - Assignment\CMP104 Assignment\CMP104 Assignment\FruitMachine.cpp(479,25): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+  CMP104 Assignment.vcxproj -> D:\University\CMP104 - Programming with C++\CMP104 - Assignment\CMP104 Assignment\x64\Debug\CMP104 Assignment.exe

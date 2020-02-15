@@ -1,0 +1,3 @@
+﻿  FruitMachine.cpp
+E:\University\CMP104 - Programming with C++\CMP104 - Assignment\CMP104 Assignment\CMP104 Assignment\FruitMachine.cpp(367,25): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+  CMP104 Assignment.vcxproj -> E:\University\CMP104 - Programming with C++\CMP104 - Assignment\CMP104 Assignment\Debug\CMP104 Assignment.exe
